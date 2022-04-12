@@ -1,2 +1,2 @@
 # Admin_finder
-It is admin finder script , which help you to find admin panels on lots of website 
+It is an admin panel finder script that let you find admin panels of different different web application 
